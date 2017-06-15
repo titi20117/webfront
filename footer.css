@@ -1,0 +1,61 @@
+footer
+{
+    background-color: rgb(47,41,51);
+    position: relative;
+    bottom: 30px;
+    padding-top: 140px;
+}
+.Term_Condition
+{
+    display: flex;
+    flex-direction: row;
+}
+
+#droitreserved ul
+{
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+    font-size: 0.6em;
+    position: relative;
+    bottom: 200px;
+}
+
+#droitreserved li
+{
+    margin-left: 25px;
+}
+
+#FacebookTwitterInstagram
+{
+    position: relative;
+    bottom: 210px;
+    left: 900px;
+    opacity: 0.6;
+}
+
+#FacebookTwitterInstagram img
+{
+     border-radius: 65px;
+     border-color: rgb(47,41,51);
+     opacity: 0.3;
+}
+
+#copyright
+{
+    position: relative;
+    top: 100px;
+}
+.copyright_YokMalang__Allright_Reserved__2015
+{
+    text-align: center;
+    font-size: 0.6em;
+    position: relative;
+    top: 10px;
+    color: grey;
+}
+
+#droitreserved a:visited
+{
+    color: grey;
+}

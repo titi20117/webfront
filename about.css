@@ -1,0 +1,46 @@
+#about1
+{
+	display: flex;
+	flex-direction: row;
+	margin-top: 800px;
+	height: 252px;
+	width: 100%;
+}
+
+/*#bordure
+{
+	width: 1200px;
+	height: 30px;
+	margin-top: 738px;
+	margin-bottom: 30px;
+	color: grey
+}*/
+
+#city
+{
+	padding-right: 200px;
+	padding-left: 50px;
+	margin-left: 40px;
+}
+
+.paracolor
+{
+	font-size: 3em;
+	font-weight: bolder;
+	color: rgba(0,176,176,0.5);
+}
+
+#blue_love
+{
+	color: rgb(0,145,145);
+}
+
+#about1 img
+{
+	margin-left: 110px;
+}
+
+.lineheight
+{
+	line-height: 30px;
+}

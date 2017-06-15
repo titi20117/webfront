@@ -1,0 +1,326 @@
+#section2
+{
+	width: 90%;
+	margin-top: 100px;
+	margin-left: 200px;
+	margin-bottom: 100px;
+}
+
+#setittinery
+{
+	text-align: center;
+	line-height: 30px;
+	margin-bottom: 100px;
+}
+
+#setittinery p
+{
+	opacity: 0.5;
+}
+
+
+
+#ittinery
+{
+	background-image: url('pictures/Ittinery/ittinery/form.jpg');
+	background-repeat: no-repeat;
+	height: 500px;
+	width: 40%;
+}
+
+#Yourtittle
+{
+	text-align: center;
+	font-size: 0.7em;
+	color: white;
+	padding-top: 20px;
+}
+
+.day1
+{
+	padding-top: 10px;
+	color: blue;
+	padding-left: 20px;
+	font-size: 0.6em;
+	color: rgb(0,99,198);
+}
+
+.date0
+{
+	position: relative;
+	left: 320px;
+	color: rgb(0,99,198);
+}
+
+#MTBromo
+{
+	border:1px solid white;
+	background-color: white;
+	width: 400px;
+	height: 40px;
+	margin-left: 30px;
+}
+#MTBromo img
+{
+	width: 5%;
+}
+
+#MTBromo p
+{
+	position: relative;
+	bottom: 5px;
+	left: 5px;
+	font-size: 0.9em;
+	color: grey;
+}
+
+.heure
+{
+	position: relative;
+	left: 215px;
+	opacity: 0.5;
+}
+
+.subAdd
+{
+	border: 0.5px solid grey;
+	background-color: grey;
+	opacity: 0.5;
+	width: 160px;
+	height: 20px;
+	position: relative;
+	left: 260px;
+	font-size: 0.7em;
+	text-align: center;
+}
+
+.subAdd p
+{
+	position: relative;
+	bottom: 15px;
+}
+
+.addition
+{
+	color:rgb(34,34,0);
+	font-size: 2em;
+	font-weight: bolder;
+}
+
+#Batou
+{
+	border:1px solid white;
+	background-color: white;
+	width: 400px;
+	height: 40px;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+#Batou img
+{
+	width: 5%;
+}
+
+#Batou p
+{
+	position: relative;
+	bottom: 10px;
+	left: 5px;
+	font-size: 0.9em;
+	color: grey;
+}
+
+#subAdd1
+{
+	border: 0.5px solid grey;
+	background-color: grey;
+	opacity: 0.5;
+	width: 380px;
+	height: 20px;
+	position: relative;
+	left: 40px;
+	font-size: 0.7em;
+}
+
+#subAdd1 p
+{
+	position: relative;
+	bottom: 8px;
+	left: 3px;
+}
+
+#subAdd2
+{
+	background-color: grey;
+	opacity: 0.5;
+	width: 380px;
+	height: 20px;
+	position: relative;
+	left: 40px;
+	font-size: 0.7em;
+	border: 1px solid black;
+}
+
+#subAdd2 p
+{
+	position: relative;
+	bottom: 8px;
+	left: 3px;
+}
+
+#dragdestination
+{
+	border:1px dashed black;
+	background-color: rgba(255,255,210,0.5);
+	text-align: center;
+	opacity: 0.2;
+	width: 400px;
+	margin-left: 30px;
+	font-style: bold;
+}
+
+#submitSave 
+{
+	width: 200px;
+	margin-top: 10px;
+	position: relative;
+	left: 320px;
+}
+
+#saveaspdf
+{
+	height: 30px;
+	border-radius: 5px;
+	background-color: rgb(0,168,0);
+	box-shadow: 10px 10px 10px black inset;
+	color: white;
+}
+
+#print
+{
+	height: 30px;
+	border-radius: 5px;
+	background-color:  #01a2a6;
+	box-shadow: 10px 10px 10px black inset;
+	color: white;
+}
+
+#ListDestination
+{
+	display: flex;
+	flex-direction: row;
+}
+
+#ListOfDestination
+{
+	position: relative;
+	left: 50px;
+	display: inline-block;
+	vertical-align: center;
+	height: 400px;
+	line-height: 20px;
+	font-size: 0.8em;
+	width: 30%;
+
+}
+
+#ListOfDestination h2
+{
+	font-size: 0.9em;
+	color: #01a2a6;
+	position: relative;
+	top: 15px;
+	left: 150px;
+}
+
+hr
+{
+	position: relative;
+	top: 15px;
+	left: 0px;
+	width: 10%;
+}
+
+option
+{
+	color: black;
+	opacity: 0.5;
+	border: none;
+}
+
+#sortByMountain
+{
+	position: relative;
+	top: 30px;
+}
+
+
+#sortByMountain img
+{
+	position: relative;
+	left: 200px;
+}
+
+#mountain1
+{
+	color: #01a2a6;
+	border: none;
+}
+#mountain1 em
+{
+	color: rgba(192,192,192,0.5);
+}
+#mountain1a
+{
+	position: relative;
+	right: 200px;
+}
+.mountain2
+{
+	font-size: 1em;
+	color: grey;
+	position: relative;
+	left: 10px;
+	border: 1px solid rgba(192,192,192,0.3);
+	padding-left: 20px;
+}
+
+.mountain2 strong
+{
+	font-size: 1em;
+	color: grey;
+	font-weight: none;
+	font-style: normal;
+}
+
+.mountain2 a
+{
+	color: #01a2a6;
+	position: relative;
+	left: 135px;
+	top: 12px;
+}
+.mountain2 a:visited
+{
+	color: #01a2a6;
+}
+.mountain2 em
+{
+	color: #01a2a6;
+}
+
+@media all and (max-width: 1024px)
+{
+    #bloc_page
+    {
+        width: auto;
+    }
+
+    #setittinery
+	{
+		text-align: left;
+		font-size: 0.7em;
+
+		padding-top: 20px;
+	}
+}

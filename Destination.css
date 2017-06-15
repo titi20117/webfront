@@ -1,0 +1,206 @@
+#section1
+{
+	display: flex;
+	flex-direction: column;
+	background: url('pictures/destination/Shape9.jpg') no-repeat;
+	margin-top: 100px;
+	width: 100%;
+}
+
+.destiny
+{
+	display: flex;
+	flex-direction: row;
+}
+
+#destiny1
+{
+	width: 80%;
+	line-height: 30px;
+	margin-left: 120px;
+	padding-right: 100px;
+
+}
+
+#destiny2
+{
+	width: 64%;
+	margin-top: 40px;
+	display: inline-block;
+}
+
+#destiny2 img
+{
+	float: left;
+}
+
+#destiny2 p
+{
+	position: relative;
+	bottom: 15px;
+	left: 10px;
+}
+
+#search1
+{
+	width: 80%;
+	margin-left: 120px;
+
+}
+
+
+#search2
+{
+	background-image: url(pictures/set_Ittinery/list/Search.jpg);
+	background-repeat: no-repeat;
+	border:1px solid grey;
+	border-radius: 5px;
+	height: 40px;
+
+}
+
+#search3
+{
+	width: 64%;
+	margin-right: 70px;
+
+}
+
+#search3
+{
+	text-decoration: none;
+}
+
+#batu
+{
+	display: flex;
+	flex-direction: row;
+	background-image:url('pictures/destination/Color Balance 3.jpg');
+	background-repeat: no-repeat;
+	position: relative;
+	right: 50px;
+	margin-top: 60px;
+	/*padding-bottom: 100px;*/
+	height: 577px;
+	width: 70%;
+	margin-left: 80px;
+}
+
+#province
+{
+	background-image:url('pictures/destination/Forward2.jpg');
+	background-repeat: no-repeat;
+	opacity: 0.8;
+	position: relative;
+	bottom: 60px;
+	left: 580px;
+	width: 60%;
+	height: 501px;
+	line-height: 30px;
+	margin-top: 60px;
+	border:1px solid transparent;
+	padding-left: 10px;
+
+}
+
+#province1
+{
+	position: relative;
+	top: 450px;
+	left: 540px;
+	color: white;
+}
+
+#province1 a
+{
+	background-color: black;
+	position: relative;
+	bottom: 35px;
+	left: 75px;
+}
+
+#container
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 70%;
+
+}
+
+#bromo
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	width: 80%;
+	justify-content: space-between;
+}
+
+#font1
+{
+	background-image: url('pictures/destination/Color Balance 4.jpg');
+	background-repeat: no-repeat;
+	height: 300px;
+	position: relative;
+	left: 180px;
+	flex: 1;
+	width: 60%;
+}
+
+
+#font_bromo
+{
+	background-image: url('pictures/destination/Layer 12.jpg');
+	background-repeat: no-repeat;
+	height: 300px;
+	position: relative;
+	left: 150px;
+	flex: 1;
+	width: 80%;
+}
+
+#number
+{
+	position: relative;
+	left: 650px;
+	margin-top: 10px;
+	width: 10%;
+}
+#font_bromo p
+{
+	text-align: left;
+	width: 300px;
+}
+
+#BromoSeeMore
+{
+	position: relative;
+	left: 425px;
+	top: 40px;
+	color: white;
+}
+
+#BromoSeeMore1
+{
+	position: relative;
+	left: 370px;
+	top: 250px;
+	color:white;
+}
+
+@media all and (max-width: 1024px)
+{
+    section
+    {
+        flex-direction: column;
+    }
+
+   .destiny
+	{
+		display: flex;
+		flex-direction: column;
+	}
+
+   
+}

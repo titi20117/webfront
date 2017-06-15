@@ -1,0 +1,112 @@
+#SectionContact
+{
+    background-image: url('pictures/contact/Layer 14.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+}
+#SectionContact h1
+{
+    text-align: center;
+    color: white;
+    font-size: 3em;
+    font-weight: bolder;
+    position: relative;
+    top: 60px;
+    margin-bottom: 70px;
+    letter-spacing: 2px;
+}
+
+#SectionContactSub
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/*.conctacter
+{
+    position: relative;
+    top: 150px;
+    left: 100px;
+}*/
+
+#blocemail
+{
+    border: 1px solid white;
+    height: 25px;
+    width: 87%;
+    padding-left: 10px;
+    font-size: 0.6em;
+    font-style:italic;
+}
+.blocemail1
+{
+    border: 1px solid white;
+    height: 25px;
+    width: 40%;
+    padding-left: 10px;
+    font-size:0.6em;
+    font-style: italic;
+}
+#blocemail2
+{
+    border: 1px solid white;
+    height: 50px;
+    width: 86%;
+    padding-left: 10px;
+    font-size:0.6em;
+    font-style: italic;
+}
+
+#blocemail3
+{
+    border-radius: 50px;
+    border: 2px solid #bdf271;
+    background-color: #bdf271;
+    position: relative;
+    left: 105px;
+    height: 30px;
+    width: 50%;
+    letter-spacing: -0.5px;
+    color: white;
+    font-size: 0.8em;
+}
+
+#por
+{
+    color: white;
+    font-size: 0.8em;
+    position: relative;
+    bottom: 30px;
+    right: 50px;
+}
+
+#FindNumber
+{
+    color: white;
+    font-weight: normal;
+    position: relative;
+    bottom: 45px;
+    right: 150px;
+}
+
+#FindNumber h2
+{
+    font-size: 1.5em;
+    font-weight: normal;
+}
+
+#FindNumber p
+{
+    font-size: 0.5em;
+}
+#FindNumber a
+{
+    color: yellow;
+    font-size: 0.6em;
+    position: relative;
+    bottom: 10px;
+    left: 15px;
+}
